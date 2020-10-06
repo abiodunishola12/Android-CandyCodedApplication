@@ -9,7 +9,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="" />
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602026298746</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="CODE COMMITED">
+      <created>1602026580199</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602026580199</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -188,10 +197,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="222" y="0" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1280.680@0.0.1280.680" timestamp="1601944033313" />
-    <state x="174" y="0" key="CommitChangelistDialog2" timestamp="1602026297305">
+    <state x="174" y="0" key="CommitChangelistDialog2" timestamp="1602026579146">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="174" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602026297305" />
+    <state x="174" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1602026579146" />
     <state x="457" y="234" width="366" height="269" key="Github.ShareDialog" timestamp="1602021433783">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
